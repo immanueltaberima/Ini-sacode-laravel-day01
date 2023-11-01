@@ -1,2 +1,2 @@
-# Ini-sacode-laravel-day01
+# Sacode-laravel-day01
 Repository untuk menyimpan rencana Ini  sacode-laravel-day01
