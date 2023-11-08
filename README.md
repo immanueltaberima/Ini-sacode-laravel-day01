@@ -1,2 +1,2 @@
-# Sacode-laravel-day1
+# Sacode-laravel-day01
 Belajar Laravel - Pertemuan ke-1
